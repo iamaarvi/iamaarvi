@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **react native**
 
-- 👨‍💻 All of my projects are available at [https://iamaarvi.github.io/ravikunpara13/](https://iamaarvi.github.io/ravikunpara13/)
+- 👨‍💻 All of my projects are available at [https://iamaarvi.github.io/ravikunpara13/](https://iamaarvi.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JS,WordPress,Bootstrap,Angularjs,java**
 
