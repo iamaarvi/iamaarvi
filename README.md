@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamaarvi" alt="iamaarvi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@ravi14840008" target="blank"><img src="https://img.shields.io/twitter/follow/@ravi14840008?logo=twitter&style=for-the-badge" alt="@ravi14840008" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ravi14840008" target="blank"><img src="https://img.shields.io/twitter/follow/ravi14840008?logo=twitter&style=for-the-badge" alt="ravi14840008" /></a> </p>
 
 - 🔭 I’m currently working on **Python(ML Programming)**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **react native**
 
-- 👨‍💻 All of my projects are available at [https://iamaarvi.github.io/](https://iamaarvi.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/iamaarvi/ravikunpara13.git](https://github.com/iamaarvi/ravikunpara13.git)
 
 - 💬 Ask me about **HTML,CSS,JS,WordPress,Bootstrap,Angularjs,java**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ravi14840008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ravi14840008" height="30" width="40" /></a>
+<a href="https://twitter.com/ravi14840008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravi14840008" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravi-kunpara-648a751a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-kunpara-648a751a0" height="30" width="40" /></a>
 <a href="https://fb.com/ravi.kunpara.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravi.kunpara.7" height="30" width="40" /></a>
 <a href="https://instagram.com/ravikunpara_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravikunpara_13" height="30" width="40" /></a>
@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamaarvi&show_icons=true&locale=en&layout=compact" alt="iamaarvi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamaarvi&show_icons=true&locale=en" alt="iamaarvi" /></p>
-
--->
